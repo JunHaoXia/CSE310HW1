@@ -1,5 +1,5 @@
 # Computer Networks CSE310 Assignment 1
-<ins>proxyserver.py<\ins>:
+<ins>proxyserver.py:
 
 The following code mplements a simple web proxy server with caching functionality. It intercepts HTTP requests from clients, forwards them to the appropriate server, caches responses, and serves cached responses if available.
 
@@ -23,7 +23,7 @@ Error Handling: It handles various exceptions such as timeouts, file not found, 
 
 Keyboard Interrupt Handling: It handles keyboard interrupt gracefully.
 
-webserver.py:
+<ins>webserver.py:
 
 This code essentially implements a basic HTTP server that can serve static files from the file system.
 
